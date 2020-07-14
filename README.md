@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello everyone, I am Pontakorn. You can call me Most most of the time (pun intended). I am mainly a frontend web developer but occasionally develop other software for learning.
+
+
+Feel free to contact or ask me about programming.
