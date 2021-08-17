@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone, I am Pontakorn. You can call me Most most of the time (pun intended). I am mainly a frontend web developer but occasionally develop other software for learning.
+Hello everyone, I am Pontakorn. You can call me by my nickname, Most. I am mainly a frontend web developer but occasionally develop other software for learning. I use TypeScript primarily and sometime ReScript. I love functional programming and higher order function.
 
 
-Feel free to contact or ask me about programming.
+### Contact and Website
+
+- Email: pontakorn_most@outlook.com
+- Website and blog: https://pontakorn.dev
+- Digital garden: https://garden.pontakorn.dev (You can read about digital garden here. https://joelhooks.com/digital-garden)
+- Telegram: @pontakorn_most
