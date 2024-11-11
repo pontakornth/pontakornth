@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About me
 
 - **Name**: Pontakorn Paesaeng (Most)
-- **Job**: Just graduated (Yes, you can hire me)
+- **Job**: Backend Developer
 - **Interest**: Software development in general, Game development
 
 ## Languages and Tools
